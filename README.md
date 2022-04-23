@@ -44,7 +44,7 @@ To run this project in the development mode, you'll need to have a basic environ
 
 #### Back-End
 
-In the backend folder;
+Into the backend folder;
 
 ```
   yarn 
