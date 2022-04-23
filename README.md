@@ -8,7 +8,7 @@
 
 <img src=".github/thumbnail.png" align="center" />
 
-## Tech
+## Tech stack
 
 - [NodeJs](https://nodejs.org/en/) - Build the server.
 - [ReactJs](https://reactjs.org) - A JavaScript library for building user interfaces
