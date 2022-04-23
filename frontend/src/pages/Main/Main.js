@@ -83,7 +83,7 @@ export default function Main({ match }) {
           ))}
         </ul>
       ) : (
-        <div className="empty">Acabou!</div>
+        <div className="empty">List Empty!</div>
       )}
 
       {matchDev && (
