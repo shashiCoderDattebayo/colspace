@@ -49,7 +49,7 @@ export default function Login({ navigation }) {
       <TextInput
         autoCapitalize="none"
         autoCorrect={false}
-        placeholder="Digite seu usuário no Github"
+        placeholder="Enter your Github username"
         placeholderTextColor="#999"
         style={styles.input}
         value={user}
@@ -64,7 +64,7 @@ export default function Login({ navigation }) {
           colors={['#FD297B', '#FF5864', '#FF655B']}
           style={styles.button}
         >
-          <Text style={styles.buttonText}>Enviar</Text>
+          <Text style={styles.buttonText}>login</Text>
         </LinearGradient>
       </TouchableOpacity>
     </KeyboardAvoidingView>
