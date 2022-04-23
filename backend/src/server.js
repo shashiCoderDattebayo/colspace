@@ -17,7 +17,7 @@ io.on('connection', socket => {
 const routes = require('./routes');
 
 mongoose.connect(
-  'mongodb+srv://Mateus:Mateus@cluster0-4roep.mongodb.net/tindev?retryWrites=true&w=majority',
+  'mongodb+srv://shashicoderdattebayo:shashicoder.dattebayo@cluster0.vzciv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
   {
     useNewUrlParser: true,
   },
